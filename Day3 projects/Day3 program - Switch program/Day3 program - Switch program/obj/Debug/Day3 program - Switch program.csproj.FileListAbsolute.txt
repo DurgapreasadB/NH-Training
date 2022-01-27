@@ -1,0 +1,7 @@
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\bin\Debug\Day3 program - Switch program.exe.config
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\bin\Debug\Day3 program - Switch program.exe
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\bin\Debug\Day3 program - Switch program.pdb
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\obj\Debug\Day3 program - Switch program.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\obj\Debug\Day3 program - Switch program.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\obj\Debug\Day3 program - Switch program.exe
+D:\C#\DotNet Projects\Day3 program - Switch program\Day3 program - Switch program\obj\Debug\Day3 program - Switch program.pdb

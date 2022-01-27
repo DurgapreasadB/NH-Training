@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afbf7068-b49b-4f04-8604-68b607c73e3a": {
+      "ProjectGuid": "afbf7068-b49b-4f04-8604-68b607c73e3a",
+      "DisplayName": "Day2 program - Factorial of a given number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

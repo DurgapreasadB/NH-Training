@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\bin\Debug\Day2 program -  Multiplication table using while loop.exe.config
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\bin\Debug\Day2 program -  Multiplication table using while loop.exe
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\bin\Debug\Day2 program -  Multiplication table using while loop.pdb
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\obj\Debug\Day2 program -  Multiplication table using while loop.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\obj\Debug\Day2 program -  Multiplication table using while loop.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\obj\Debug\Day2 program -  Multiplication table using while loop.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\obj\Debug\Day2 program -  Multiplication table using while loop.exe
+D:\C#\DotNet Projects\Day2 program -  Multiplication table using while loop\Day2 program -  Multiplication table using while loop\obj\Debug\Day2 program -  Multiplication table using while loop.pdb
