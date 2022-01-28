@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\bin\Debug\Day4 program - foreach loop.exe.config
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\bin\Debug\Day4 program - foreach loop.exe
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\bin\Debug\Day4 program - foreach loop.pdb
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\obj\Debug\Day4 program - foreach loop.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\obj\Debug\Day4 program - foreach loop.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\obj\Debug\Day4 program - foreach loop.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\obj\Debug\Day4 program - foreach loop.exe
+D:\C#\DotNet Projects\Day4 program - foreach loop\Day4 program - foreach loop\obj\Debug\Day4 program - foreach loop.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e8d1e5e-804e-4541-9ff6-07c19f512ecb": {
+      "ProjectGuid": "5e8d1e5e-804e-4541-9ff6-07c19f512ecb",
+      "DisplayName": "Day2 program -  Multiplication table using while loop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
