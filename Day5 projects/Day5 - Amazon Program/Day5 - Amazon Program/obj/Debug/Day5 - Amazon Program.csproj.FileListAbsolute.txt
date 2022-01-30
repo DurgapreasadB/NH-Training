@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\bin\Debug\Day5 - Amazon Program.exe.config
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\bin\Debug\Day5 - Amazon Program.exe
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\bin\Debug\Day5 - Amazon Program.pdb
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\obj\Debug\Day5 - Amazon Program.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\obj\Debug\Day5 - Amazon Program.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\obj\Debug\Day5 - Amazon Program.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\obj\Debug\Day5 - Amazon Program.exe
+D:\C#\DotNet Projects\Day5 - Amazon Program\Day5 - Amazon Program\obj\Debug\Day5 - Amazon Program.pdb
