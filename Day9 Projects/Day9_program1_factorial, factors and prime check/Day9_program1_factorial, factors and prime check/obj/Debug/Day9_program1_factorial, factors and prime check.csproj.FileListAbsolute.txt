@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\bin\Debug\Day9_program1_factorial, factors and prime check.exe.config
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\bin\Debug\Day9_program1_factorial, factors and prime check.exe
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\bin\Debug\Day9_program1_factorial, factors and prime check.pdb
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\obj\Debug\Day9_program1_factorial, factors and prime check.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\obj\Debug\Day9_program1_factorial, factors and prime check.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\obj\Debug\Day9_program1_factorial, factors and prime check.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\obj\Debug\Day9_program1_factorial, factors and prime check.exe
+D:\C#\DotNet Projects\Day9_program1_factorial, factors and prime check\Day9_program1_factorial, factors and prime check\obj\Debug\Day9_program1_factorial, factors and prime check.pdb
