@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\bin\Debug\Day8_Program1 for_foreach_Lambda.exe.config
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\bin\Debug\Day8_Program1 for_foreach_Lambda.exe
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\bin\Debug\Day8_Program1 for_foreach_Lambda.pdb
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\obj\Debug\Day8_Program1 for_foreach_Lambda.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\obj\Debug\Day8_Program1 for_foreach_Lambda.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\obj\Debug\Day8_Program1 for_foreach_Lambda.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\obj\Debug\Day8_Program1 for_foreach_Lambda.exe
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program1 for_foreach_Lambda\Day8_Program1 for_foreach_Lambda\obj\Debug\Day8_Program1 for_foreach_Lambda.pdb

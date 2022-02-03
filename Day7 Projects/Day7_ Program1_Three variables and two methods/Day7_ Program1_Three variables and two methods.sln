@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_ Program1_Three variables and two methods", "Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods.csproj", "{E5F3C1A4-9B18-4579-BE19-DF86A0F73BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F3C1A4-9B18-4579-BE19-DF86A0F73BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F3C1A4-9B18-4579-BE19-DF86A0F73BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F3C1A4-9B18-4579-BE19-DF86A0F73BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F3C1A4-9B18-4579-BE19-DF86A0F73BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCDAFCEF-E9CF-498B-AA81-609E29A7512C}
+	EndGlobalSection
+EndGlobal

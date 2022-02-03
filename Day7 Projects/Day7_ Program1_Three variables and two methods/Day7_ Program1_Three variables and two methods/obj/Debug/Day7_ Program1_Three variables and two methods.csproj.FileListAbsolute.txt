@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\bin\Debug\Day7_ Program1_Three variables and two methods.exe.config
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\bin\Debug\Day7_ Program1_Three variables and two methods.exe
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\bin\Debug\Day7_ Program1_Three variables and two methods.pdb
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\obj\Debug\Day7_ Program1_Three variables and two methods.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\obj\Debug\Day7_ Program1_Three variables and two methods.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\obj\Debug\Day7_ Program1_Three variables and two methods.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\obj\Debug\Day7_ Program1_Three variables and two methods.exe
+D:\C#\DotNet Projects\Day7 Projects\Day7_ Program1_Three variables and two methods\Day7_ Program1_Three variables and two methods\obj\Debug\Day7_ Program1_Three variables and two methods.pdb

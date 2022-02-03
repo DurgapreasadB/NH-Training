@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc5199f9-47ee-4783-a419-90f776e5fbcd": {
+      "ProjectGuid": "bc5199f9-47ee-4783-a419-90f776e5fbcd",
+      "DisplayName": "Day8_Program4(id, name, price, brand)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

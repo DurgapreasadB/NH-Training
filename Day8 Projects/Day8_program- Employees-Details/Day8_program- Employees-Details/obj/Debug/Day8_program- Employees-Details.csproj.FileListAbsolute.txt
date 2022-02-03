@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\bin\Debug\Day8_program- Employees-Details.exe.config
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\bin\Debug\Day8_program- Employees-Details.exe
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\bin\Debug\Day8_program- Employees-Details.pdb
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\obj\Debug\Day8_program- Employees-Details.csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\obj\Debug\Day8_program- Employees-Details.csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\obj\Debug\Day8_program- Employees-Details.csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\obj\Debug\Day8_program- Employees-Details.exe
+D:\C#\DotNet Projects\Day8 Projects\Day8_program- Employees-Details\Day8_program- Employees-Details\obj\Debug\Day8_program- Employees-Details.pdb

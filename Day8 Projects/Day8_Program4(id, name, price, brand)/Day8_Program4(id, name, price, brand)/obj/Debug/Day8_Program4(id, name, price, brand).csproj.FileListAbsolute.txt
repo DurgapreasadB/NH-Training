@@ -1,0 +1,8 @@
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\bin\Debug\Day8_Program4(id, name, price, brand).exe.config
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\bin\Debug\Day8_Program4(id, name, price, brand).exe
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\bin\Debug\Day8_Program4(id, name, price, brand).pdb
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\obj\Debug\Day8_Program4(id, name, price, brand).csproj.AssemblyReference.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\obj\Debug\Day8_Program4(id, name, price, brand).csproj.SuggestedBindingRedirects.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\obj\Debug\Day8_Program4(id, name, price, brand).csproj.CoreCompileInputs.cache
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\obj\Debug\Day8_Program4(id, name, price, brand).exe
+D:\C#\DotNet Projects\Day8 Projects\Day8_Program4(id, name, price, brand)\Day8_Program4(id, name, price, brand)\obj\Debug\Day8_Program4(id, name, price, brand).pdb
